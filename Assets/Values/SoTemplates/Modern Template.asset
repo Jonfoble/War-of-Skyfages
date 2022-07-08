@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb3715870b914e06982a9e8247265351, type: 3}
+  m_Name: Modern Template
+  m_EditorClassIdentifier: 
+  lightUnitValues: {fileID: 11400000, guid: 50495b34d6f3c0845a47f6cb4f7d1927, type: 2}
+  mediumUnitValues: {fileID: 11400000, guid: d0b51560a683da244a7a1c31e094f6ed, type: 2}
+  heavyUnitValues: {fileID: 11400000, guid: 7ba7f5c8ca22d0143b96c172ffec18ab, type: 2}
+  specialUnitValues: {fileID: 11400000, guid: 5ff4e8536a5e1804aa1e7347c03cd9de, type: 2}

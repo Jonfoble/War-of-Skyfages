@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb3715870b914e06982a9e8247265351, type: 3}
+  m_Name: Prehistoric Template
+  m_EditorClassIdentifier: 
+  lightUnitValues: {fileID: 11400000, guid: ec65a6e4c3e91fd4fa69aa49b439fb34, type: 2}
+  mediumUnitValues: {fileID: 11400000, guid: 7fc4048fb3291ed42a1bb526f5d6e4ac, type: 2}
+  heavyUnitValues: {fileID: 11400000, guid: bd2ffcfadb49f0d4989b7f3c51f0da17, type: 2}
+  specialUnitValues: {fileID: 11400000, guid: 6e5f7adfa8d295e42a7896d7fc0d647c, type: 2}

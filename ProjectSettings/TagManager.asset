@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mizrakci
+  - allied
+  - mizrakciE
+  - enemy
+  - tahtali
+  - tahtaliE
+  - enemy base
+  - Spawner
+  - ally base
+  - sira1
+  - sira2
+  - sira3
+  - sira4
+  - sira5
+  - Esira1
+  - Esira2
+  - Esira3
+  - Esira4
+  - Esira5
+  - kilicli
+  - kilicliE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - allied
+  - enemy
+  - post processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
